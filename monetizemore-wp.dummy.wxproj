@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<winginx>
+  <project>
+    <name>m2wp.dev</name>
+    <url>http://monetizemore-wp.dummy/</url>
+    <root>home/monetizemore-wp.dummy</root>
+    <goal>This is where all tech related Wordpress post screengrabs will be implemented.</goal>
+    <comment>1. EU filtering</comment>
+  </project>
+</winginx>
